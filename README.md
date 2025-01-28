@@ -33,6 +33,10 @@ Evaluation/
     Evaluation.ipynb
     faq_data.csv
 src/
+    __init__.py
+    chat_service.py
+    faq.py
+    system_prompt.py
 utils/
     __pycache__/
     __init__.py
