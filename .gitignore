@@ -21,8 +21,8 @@ env/
 .dockerignore
 
 # Ignore user data and evaluation results
-data/USERS/
-data/user_contacts.csv
+# data/USERS/
+# data/user_contacts.csv
 
 
 # Ignore Jupyter Notebook checkpoints
