@@ -4,6 +4,8 @@
 
 The E-commerce FAQ Assistant is a conversational AI designed to assist users with e-commerce-related queries. It provides information on order statuses, return policies, and connects users with human representatives when needed. The system is built using OpenAI's GPT-4 model and is integrated with a Streamlit frontend and a FastAPI backend.
 
+![Demo](image.png)
+
 ## Features
 
 - **Order Status Inquiry**: Users can inquire about the status of their orders by providing their order ID.
