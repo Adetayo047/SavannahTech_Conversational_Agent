@@ -53,12 +53,33 @@ requirements.txt
 
 ## Setup and Installation
 
+## Prerequisites
+
+Ensure you have the following installed on your system:
+1. **Python 3.8 or higher or 3.12.5 exactly**
+2. **pip (Python package installer)**
+
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-faq-assistant.git
-   cd ecommerce-faq-assistant
+   git clone https://github.com/Adetayo047/SavannahTech_Conversational_Agent.git
+   cd SavannahTech_Conversational_Agent
    ```
+   ### Step 2: Create a Virtual Environment
 
+Create and activate a virtual environment to isolate dependencies:
+
+- **Windows**:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+
+- **Mac/Linux**:
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+   
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
@@ -283,14 +304,8 @@ Overall, the chatbot performed reasonably well in providing relevant information
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or issues, please open an issue on the GitHub repository or contact the maintainer directly.
 
----
 
-This README provides a comprehensive guide to setting up and using the E-commerce FAQ Assistant. For more detailed information, refer to the individual module documentation and code comments. The OpenAPI/Swagger documentation is a major bonus for understanding and testing the REST API endpoints. The evaluation report provides insights into the chatbot's performance and areas for improvement.
