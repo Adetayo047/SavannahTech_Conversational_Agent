@@ -64,7 +64,7 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Adetayo047/SavannahTech_Conversational_Agent.git
    cd SavannahTech_Conversational_Agent
    ```
-   ### Step 2: Create a Virtual Environment
+   #### Create a Virtual Environment
 
 Create and activate a virtual environment to isolate dependencies:
 
