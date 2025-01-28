@@ -42,13 +42,13 @@ utils/
     __init__.py
     contact_parser.py
     utils.py
-    dockerignore
-    .env
-    app.py
-    docker-compose.yml
-    Dockerfile
-    main.py
-    requirements.txt
+dockerignore
+.env
+app.py
+docker-compose.yml
+Dockerfile
+main.py
+requirements.txt
 ```
 
 ## Setup and Installation
